@@ -1,6 +1,6 @@
 # bank_appp
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
