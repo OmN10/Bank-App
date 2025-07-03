@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project used shareprefernce for real time data for signup & login , profile update and password change,
 
-A few resources to get you started if this is your first Flutter project:
+Sqflite package is used for real time payment and transaction history.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fl_chart package used for showing realtime transaction using graph , In that i also add today , this week , this month & Custom => In custome use date picker widget 
